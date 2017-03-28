@@ -1,0 +1,1 @@
+/opt/pgsql$1/bin/pg_ctl stop -m fast -D /opt/pgdata/current

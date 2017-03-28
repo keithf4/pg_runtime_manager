@@ -1,0 +1,2 @@
+/opt/pgsql$1/bin/pg_ctl stop -c -D /opt/pgdata/current
+/opt/pgsql$1/bin/pg_ctl start -c -D /opt/pgdata/current

@@ -1,0 +1,4 @@
+rm /opt/pgsql
+ln -s /opt/pgsql$1 /opt/pgsql
+rm /opt/pgdata/current
+ln -s /opt/pgdata/$1 /opt/pgdata/current
